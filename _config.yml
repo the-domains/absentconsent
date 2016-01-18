@@ -1,6 +1,6 @@
 name: absentconsent
 favicon: null
-layout_spectrum: 0.48956
+layout_spectrum: 0.20285
 typography_spectrum: 0.2536
 title: AbsentConsent
 cta:
@@ -23,7 +23,7 @@ color:
     - '#00b4f1'
     - '#f8682c'
   brandStrength: 0.5
-  lightness: 0
+  lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 1
 purpose: []
