@@ -2,14 +2,22 @@
     <channel>
         <title><![CDATA[in the absence of your consent]]></title>
         <description><![CDATA[in the absence of your consent]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/absentconsent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 08:52:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 10:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/absentconsent/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Second Introduction]]></title>
+            <description><![CDATA[<article><h1>Second Introduction</h1><p>Hi, I am Raymond and
+at the start of 2016 I am going lone wolf to find? (found?) a media company.</p></article>]]></description>
+            <link>https://thegrid.ai/absentconsent/second-introduction/index.html</link>
+            <guid isPermaLink="false">6b3a3556-a826-4366-aca4-b6c939ffe0fe</guid>
+            <pubDate>Mon, 18 Jan 2016 10:11:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
             <description><![CDATA[<article><h1>Hello World!</h1><p>This marks the first post. Beginnings are the hardest, so let's skip the formalities and get this over with.</p></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/absentconsent/hello-world/index.html</link>
             <guid isPermaLink="false">57fe0493-552e-458c-94e3-3ba333cf54a7</guid>
             <pubDate>Tue, 05 Jan 2016 08:52:31 GMT</pubDate>
         </item>
