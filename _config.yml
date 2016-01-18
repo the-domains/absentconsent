@@ -2,7 +2,7 @@ name: absentconsent
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.2536
-title: in the absence of your consent
+title: AbsentConsent
 cta:
   domain: null
   bucket: null
