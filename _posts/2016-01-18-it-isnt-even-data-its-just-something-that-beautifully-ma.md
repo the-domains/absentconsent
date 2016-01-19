@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why being a bigger shit than others is important
-datePublished: '2016-01-18T10:24:26.720Z'
-dateModified: '2016-01-18T10:23:39.871Z'
+datePublished: '2016-01-19T10:14:13.391Z'
+dateModified: '2016-01-19T10:14:05.241Z'
 title: |-
   It isn't even data. It's just something that
   beautifully, magically happens.
 author: []
+sourcePath: _posts/2016-01-18-it-isnt-even-data-its-just-something-that-beautifully-ma.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-it-isnt-even-data-its-just-something-that-beautifully-ma.md
-published: true
 url: it-isnt-even-data-its-just-something-that-beautifully-ma/index.html
 _type: Article
 
