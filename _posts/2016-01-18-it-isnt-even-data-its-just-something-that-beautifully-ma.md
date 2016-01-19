@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Why being a bigger shit than others is important
-datePublished: '2016-01-19T10:14:13.391Z'
-dateModified: '2016-01-19T10:14:05.241Z'
+datePublished: '2016-01-19T10:14:58.218Z'
+dateModified: '2016-01-19T10:14:43.310Z'
 title: |-
   It isn't even data. It's just something that
   beautifully, magically happens.
