@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Why being a bigger shit than others is important
-datePublished: '2016-01-19T10:14:58.218Z'
+datePublished: '2016-01-19T10:14:58.221Z'
 dateModified: '2016-01-19T10:14:43.310Z'
 title: |-
   It isn't even data. It's just something that
